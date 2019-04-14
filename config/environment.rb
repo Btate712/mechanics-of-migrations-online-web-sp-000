@@ -15,4 +15,4 @@ ActiveRecord::Base.establish_connection(
 # put the code to connect to the database here
 
 
-require_relative "../lib/artist.rb"
+require_relative "../artist.rb"
